@@ -411,7 +411,7 @@
 
     <!-- QM Dialog box buttons -->
     <string name="button_close">Zamknij</string>
-    <string name="button_view">Wygląd</string>
+    <string name="button_view">Podgląd</string>
     <string name="button_templates">Szablony</string>
 
     <!-- Hint text in message body field when keyboard is exposed -->
